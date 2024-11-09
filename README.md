@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/isacbaia2005/my-luminous-padlet-euc2c72lmjqc4qxe
 
 ## 1. Introdução
 
