@@ -1,5 +1,5 @@
 
-# Projeto Disciplina: Requisitos de Software
+# Projeto GymTHub: Requisitos de Software
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
@@ -9,11 +9,15 @@ Link do Padlet: https://padlet.com/isacbaia2005/my-luminous-padlet-euc2c72lmjqc4
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Gabriel Cecilio Menezes - RA
+Isadora Costa Baía - RA2614685
+João Flávio Loureiro - RA2525828
+Pedro Henrique Zanatta - RA2601443
+Vitória - RA
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+GymTHub
 
 ***1.3.  Propósito do Sistema***
 
