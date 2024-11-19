@@ -9,11 +9,11 @@ Link do Padlet: https://padlet.com/isacbaia2005/my-luminous-padlet-euc2c72lmjqc4
 
 ***1.1.  Nome do Grupo***
 
-Gabriel Cecilio Menezes - RA
-Isadora Costa Baía - RA2614685
-João Flávio Loureiro - RA2525828
-Pedro Henrique Zanatta - RA2601443
-Vitória - RA
+Gabriel Cecilio Menezes - RA2623404 <br />
+Isadora Costa Baía - RA2614685 <br />
+João Flávio Loureiro - RA2525828 <br />
+Pedro Henrique Zanatta - RA2601443 <br />
+Vitória Cardoso - RA2312174
 
 ***1.2.  Nome do Sistema***
 
