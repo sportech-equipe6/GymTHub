@@ -59,11 +59,11 @@ Estudantes, professores na área e interessados. Neste espaço vocês vão traç
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+[Requisitos Funcionais](https://github.com/sportech-equipe6/GymTHub/blob/e500b27f0e644d49a3c9182ad6e5a8a76fea8ea7/Requisitos/Requisitos%20Funcionais.pdf)
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+[Requisitos Não Funcionais](https://docs.google.com/document/d/1ARrzJjRUNknBDos-36b6hsrC4WFVAikEmQ7M49I49Pc/edit?usp=sharing)
 
 ***2.3. Perguntas***
 
