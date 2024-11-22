@@ -33,7 +33,8 @@ Estudantes, professores na área e interessados. Neste espaço vocês vão traç
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+[Persona 1](https://github.com/sportech-equipe6/GymTHub/blob/c4f4b2fdaaacf8691680ec7ba39bd8e30334d99b/Personas/Persona1.jpeg)
+[Persona 2](https://github.com/sportech-equipe6/GymTHub/blob/c4f4b2fdaaacf8691680ec7ba39bd8e30334d99b/Personas/Persona2.jpeg)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
