@@ -29,7 +29,7 @@ Estudantes universitários que frequentam academia e buscam um maior controle da
 
 ***1.3. Descrição dos usuários***
 
-Estudantes, professores na área e interessados. Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Estudantes, professores na área e interessados. Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas
 
 ***Personas:***
 
@@ -63,7 +63,7 @@ Estudantes, professores na área e interessados. Neste espaço vocês vão traç
 
 ***2.2. Requisitos Não Funcionais***
 
-[Requisitos Não Funcionais](https://docs.google.com/document/d/1ARrzJjRUNknBDos-36b6hsrC4WFVAikEmQ7M49I49Pc/edit?usp=sharing)
+[Requisitos Não Funcionais](https://github.com/sportech-equipe6/GymTHub/blob/e500b27f0e644d49a3c9182ad6e5a8a76fea8ea7/Requisitos/Requisitos%20Na%CC%83o-Funcionais.pdf)
 
 ***2.3. Perguntas***
 
