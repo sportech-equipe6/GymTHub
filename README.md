@@ -60,7 +60,9 @@ Estudantes e frequetadores de academia que buscam organizar melhor os seus trein
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Ana Carolina é uma estudante bem conectada as redes sociais o que leva uma facilidade em mexer com tecnologia. Ela geralmente utiliza o próprio bloco de notas já integrado no seu celular para organizar seus prórpios treinos. Devido a esse meio de organização, Ana esquece de consultar sua rotina e tem um certo desinteresse em ficar consultando o bloco de notas para revisar seus treinos e alterá-los. 
+
+A inteface simples do bloco de notas faz com que Ana não consiga manter a atenção e o interesse por muito tempo, o que acaba em não construir um hábito de visitas no aplicativo e algumas das vezes acaba esquecendo de seu compromisso, assim perdendo a sua motivação.
 
 ***Cenário: Depois***
 
