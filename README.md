@@ -68,7 +68,13 @@ Estudantes, professores na área e interessados. Neste espaço vocês vão traç
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+Perguntas para a entrevista: <br />
+•⁠  ⁠Qual sua rotina na academia ? (Quantas vezes vai por semana) <br />
+•⁠  ⁠⁠Na academia qual a rotina que ele faz ? (Pode ser de vários dias) <br />
+•⁠  ⁠⁠Ele usa algum aplicativo que auxilia ele na academia ? <br />
+•⁠  ⁠⁠Ele possui algum profissional que auxilia ? (Nutricionista, personal) <br />
+•⁠  ⁠⁠Fora da academia ele faz alguma ação que ajuda ele nos ganhos ? (Uma dieta específica etc) <br />
+•⁠  ⁠⁠De toda essa rotina (dentro e fora da academia) o que ele acha mais difícil de manter a longo prazo ?<br />
 
 ***2.4. Entrevista***
 
