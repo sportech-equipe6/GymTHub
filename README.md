@@ -66,7 +66,7 @@ A inteface simples do bloco de notas faz com que Ana não consiga manter a aten�
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Ana agora podia planejar e acompanhar seus treinos de maneira mais visual.Com uma interface mais interativa visualmente, ela começou a se habituar com o aplicativo e passou a consulta-lo mais para atualizar sua rotina de treinos.Com essa facilidade ela se sentia mais engajada aos seus objetivos de uma forma mais gratificante. 
 
 ## 2. Documentos gerais no repositório
 
