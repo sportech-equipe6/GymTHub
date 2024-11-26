@@ -38,15 +38,25 @@ Estudantes e frequetadores de academia que buscam organizar melhor os seus trein
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-*1. O que as pessoas fazem?* Não conseguem organizar de forma eficiente e, principalmente, unificada a sua rotina de treinos e alimentação. Acabam tendo as informações perdidas e desconexas. 
-*2. Quais os artefatos envolvidos?* Utilizam bloco de notas, papel, algum outro aplicativo (maioria pagos e com funcionalidades escassas - tem que usar 2 ou + para conseguirem acompanhar treinos, alimentação, etc.) 
-*3. O que elas precisam saber?* Que um ambiente onde essas informações estejam unificadas, de fácil acesso e com uma vizualização agradável ajuda a organização do dia-a-dia e também no incentivo para realizar as atividades.
+1. **O que as pessoas fazem?**  
+   Tentam organizar treinos e dietas de forma manual ou utilizando múltiplos aplicativos, o que resulta em informações fragmentadas e desorganizadas.
+
+2. **Quais os artefatos envolvidos?**  
+   Blocos de notas, planilhas, aplicativos pagos com funcionalidades limitadas e materiais impressos.
+
+3. **O que elas precisam saber?**  
+   Que a falta de um sistema unificado e acessível dificulta o planejamento, o acompanhamento e a consistência na adoção de hábitos saudáveis.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+1. **O que as pessoas fazem?**  
+   Utilizam o **GymTHub** para planejar, registrar e acompanhar treinos, dietas e metas de bem-estar em um único lugar.
+
+2. **Quais os artefatos envolvidos?**  
+   Aplicativo **GymTHub**, dispositivos móveis e integrações com wearables (como smartwatches).
+
+3. **O que elas precisam saber?**  
+   Que o **GymTHub** centraliza informações de treinos e dietas, facilita o planejamento e acompanhamento da rotina e incentiva hábitos saudáveis, de forma prática e acessível.
 
 ***Cenário: Antes***
 
