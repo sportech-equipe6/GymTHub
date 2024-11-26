@@ -29,7 +29,7 @@ Estudantes universitários que frequentam academia e buscam um maior controle da
 
 ***1.3. Descrição dos usuários***
 
-Estudantes, professores na área e interessados. Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas
+Estudantes e frequetadores de academia que buscam organizar melhor os seus treinos, alimentação e relacionados devido a rotina corrida e ocupada.
 
 ***Personas:***
 
@@ -38,9 +38,9 @@ Estudantes, professores na área e interessados. Neste espaço vocês vão traç
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+*1. O que as pessoas fazem?* Não conseguem organizar de forma eficiente e, principalmente, unificada a sua rotina de treinos e alimentação. Acabam tendo as informações perdidas e desconexas. 
+*2. Quais os artefatos envolvidos?* Utilizam bloco de notas, papel, algum outro aplicativo (maioria pagos e com funcionalidades escassas - tem que usar 2 ou + para conseguirem acompanhar treinos, alimentação, etc.) 
+*3. O que elas precisam saber?* Que um ambiente onde essas informações estejam unificadas, de fácil acesso e com uma vizualização agradável ajuda a organização do dia-a-dia e também no incentivo para realizar as atividades.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
