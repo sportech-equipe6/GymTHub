@@ -114,7 +114,7 @@ Perguntas para a entrevista: <br />
 
 ***2.4. Entrevista***
 
-[Transcrição entrevista](https://github.com/sportech-equipe6/GymTHub/blob/35472aa2de227eb8383b615b56f496be3506e39b/Entrevista/Entrevista%20Requisitos.pdf)
+[Transcrição entrevista](Entrevista/Entrevista.md)
 [Áudio entrevista](https://drive.google.com/file/d/1i8KlhvbOVmuHW5kWf2TbrBFYyNpf0B8m/view?usp=drive_link)
 
 ***2.5. Histórias do Usuário***
