@@ -1,4 +1,4 @@
-**Grupo 6 - GymTHub**
+**Grupo 6 - GymTHub** <br />
 **Entrevistado: Pedro de Castro Salvador**
 
 “Boa tarde Pedro, tudo bem? Vamos fazer essa entrevista para o trabalho da disciplina de Requisitos de Software. Queria fazer algumas perguntas bem rápidas para entender mais sobre a sua vida esportiva. Primeiramente, como que é a sua rotina na academia? Quantas vezes por semana você vai, como que é essa questão?”
