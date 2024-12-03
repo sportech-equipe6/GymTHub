@@ -73,6 +73,18 @@ Ana agora podia planejar e acompanhar seus treinos de maneira mais visual.Com um
 ***2.1. Requisitos Funcionais***
 
 [Requisitos Funcionais](https://github.com/sportech-equipe6/GymTHub/blob/e500b27f0e644d49a3c9182ad6e5a8a76fea8ea7/Requisitos/Requisitos%20Funcionais.pdf)
+|ID| Requisito Funcional | Prioridade | Depende de |
+|--|--|--|--|
+| RF01 | O software deve permitir que o usuário faça cadastro da sua conta. | Alta | 
+| RF02 | O software não deve permitir que um usuário faça o seu cadastro caso as informações obrigatórias não tenham sido preenchidas. | Alta | RF01 | 
+| RF03 | O sistema deve permitir que o usuário vincule um treino cadastrado a uma data e uma frequência específicas. | Média |
+| RF04 | O software deve permitir que usuários interajam entre si por mensagem. | Baixa | RF01 | 
+| RF05 | O software deve permitir que o usuário salve ou avalie o treino de outros usuários | Baixa | RF01, RF03
+| RF06 | O software deve enviar ao usuário no final do treino um relatório com tempo total, tempo em cada exercício e carga em cada exercício. | Média | RF03 |
+| RF07 | O software deve permitir que o usuário acesse uma área de configuração de conta para que as suas informações sejam alteradas. | Baixa | RF01 | 
+| RF08 | O software deve permitir que o usuário altere os dados da sua própria tabela de treino. | Média | RF03 |
+| RF09 | O software deverá permitir que o usuário defina metas específicas, como peso-alvo, ingestão diária de água ou calorias. | Média | RF01 |
+| RF10 | O software deverá apresentar um painel de progresso que exiba estatísticas e gráficos atualizados sobre o desempenho do usuário em relação às metas estabelecidas. | Média | RF09 |
 
 ***2.2. Requisitos Não Funcionais***
 
