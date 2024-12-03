@@ -95,7 +95,16 @@ Perguntas para a entrevista: <br />
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+|ID| User Story  |
+|--|--|
+| US01 | Como usuário, quero criar uma conta preenchendo as informações obrigatórias, para acessar todas as funcionalidades do sistema. |
+| US02 | Como usuário, quero receber uma mensagem de erro clara se eu não preencher todas as informações obrigatórias ao tentar criar minha conta, para saber o que falta corrigir. |
+| US03 | Como usuário, quero acessar uma área de configuração de conta, para poder alterar minhas informações pessoais facilmente. |
+| US04 | Como usuário, quero vincular um treino a uma data e frequência específicas, para organizar minha rotina de exercícios. |
+| US05 | Como usuário, quero acessar um painel de progresso com estatísticas e gráficos atualizados, para visualizar meu desempenho em relação às metas estabelecidas. |
+| US06 | Como usuário, quero salvar ou avaliar os treinos de outros usuários, para marcar treinos que gostei e ajudar a comunidade com meu feedback. |
+| US07 | Como usuário, quero definir metas específicas como peso-alvo, ingestão diária de água ou calorias, para acompanhar meu progresso de forma personalizada. |
+| US08 | Como usuário, quero criar um treino personalizado adicionando exercícios específicos, definindo séries, repetições, carga e tempo para cada um, para atender às minhas necessidades e objetivos de condicionamento físico. |
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
