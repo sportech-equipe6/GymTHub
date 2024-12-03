@@ -89,6 +89,18 @@ Ana agora podia planejar e acompanhar seus treinos de maneira mais visual.Com um
 ***2.2. Requisitos Não Funcionais***
 
 [Requisitos Não Funcionais](https://github.com/sportech-equipe6/GymTHub/blob/e500b27f0e644d49a3c9182ad6e5a8a76fea8ea7/Requisitos/Requisitos%20Na%CC%83o-Funcionais.pdf)
+|ID| Requisito Não-Funcional | Prioridade | 
+|--|--|--|
+| RNF01 | O sistema deve suportar 10.000 usuários concorrentemente. | Alta | 
+| RNF02 | O sistema deve ser operacionalizado em iOS e Android. | Média | 
+| RNF03 | O sistema deve proteger os dados do usuário de acordo com a LEI Nº 13.853, Lei Geral de Proteção de Dados. | Alta |
+| RNF04 | O sistema deve interagir com os sistemas da Google Workspace e Microsoft Office.| Baixa |  
+| RNF05 | O usuário deve conseguir atualizar as informações de cada treino em 4 cliques.| Média |
+| RNF06 | O executável do sistema não deve ser superior 200Mbytes. | Baixa | 
+| RNF07 | O sistema deve estar disponível 99.9% do tempo (uptime). | Alta | 
+| RNF08 | Notificações devem ser enviadas em menos de 10 segundos de um evento programado. | Média | 
+| RNF09 | O sistema não deve informar aos operadores nenhuma informação pessoal dos usuários. | Alta | 
+| RNF10 | O usuário deve ser capaz de utilizar todas as funcionalidades da aplicação após um tutorial de 2 min. | Baixa | 
 
 ***2.3. Perguntas***
 
