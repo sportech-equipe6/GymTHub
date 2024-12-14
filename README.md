@@ -137,7 +137,7 @@ Perguntas para a entrevista: <br />
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.8. Matrizes de Rastreabilidade***
+***2.8. Diagrama de Classes***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
