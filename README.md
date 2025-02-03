@@ -140,7 +140,7 @@ Perguntas para a entrevista: <br />
 
 ***2.8. Diagrama de Classes***
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+[Diagrama de Classes](./Diagramas)
 
 ***2.9. Protótipos***
 
