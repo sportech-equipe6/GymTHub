@@ -131,7 +131,8 @@ Perguntas para a entrevista: <br />
 | US08 | Como usuário, quero criar um treino personalizado adicionando exercícios específicos, definindo séries, repetições, carga e tempo para cada um, para atender às minhas necessidades e objetivos de condicionamento físico. |
 
 ***2.6. Diagramas de Caso de Uso e Especificações***<br />
-[Descrição do Caso de Uso](https://drive.google.com/file/d/17zF2bBpkwdJ5EHKUWMGrHt99T8eYRaQJ/view?usp=sharing)
+[Descrição do Caso de Uso](https://drive.google.com/file/d/17zF2bBpkwdJ5EHKUWMGrHt99T8eYRaQJ/view?usp=sharing)<br />
+[Diagrama de Caso de Uso](./Diagramas)
 
 ***2.7. Diagramas de Atividades***<br />
 [Diagrama de Atividade](./Diagramas)
