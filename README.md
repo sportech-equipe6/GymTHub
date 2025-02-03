@@ -133,7 +133,7 @@ Perguntas para a entrevista: <br />
 ***2.6. Diagramas de Caso de Uso e Especificações***<br />
 [Descrição do Caso de Uso](https://drive.google.com/file/d/17zF2bBpkwdJ5EHKUWMGrHt99T8eYRaQJ/view?usp=sharing)
 
-***2.7. Diagramas de Atividades***
+***2.7. Diagramas de Atividades***<br />
 [Diagrama de Atividade](./Diagramas)
 
 
